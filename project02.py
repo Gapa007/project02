@@ -1,7 +1,10 @@
 import os
 
-
-# Autor: [Vaše jméno]
+"""
+projekt_2.py: druhý projekt do Engeto Online Python Akademie
+author: Tomáš Vaško
+email: t.vasko@seznam.cz
+"""
 
 # Definice globálních proměnných
 board = [" " for _ in range(9)]
